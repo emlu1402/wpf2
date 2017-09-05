@@ -19,7 +19,7 @@ namespace wfa2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hej, Info.");
+            MessageBox.Show("Hej, Info. Ännu lite mer info");
 
 
         }
